@@ -11,6 +11,7 @@
         <h1 style="color: black; font-size: 40px;" align="center">I AM THE KING</h1>
         <h1 style="color: blue; font-size: 40px;" align="center">THIS MY VILLAGE</h1>
          <h1 style="color: red; font-size: 60px;" align="center">HII</h1>
+         <img src="https://www.indiatoday.in/movies/regional-cinema/story/all-you-need-to-know-about-jr-ntr-on-his-39th-birthday-1951851-2022-05-20">
          
          
          
